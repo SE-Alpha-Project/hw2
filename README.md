@@ -62,8 +62,8 @@ coverage run -m pytest
 
 ## Error fixes
 
-1. **Debugging: ** Check for the errors as produced in the auto test files
-2. **Verification through report generation: ** Re-run the commands & check the result for errors as the files get updated post changes and the report is generated
+1. **Debugging:** Check for the errors as produced in the auto test files
+2. **Verification through report generation:** Re-run the commands & check the result for errors as the files get updated post changes and the report is generated
 
 ## Authors
 [Chaitralee Datar](https://www.linkedin.com/in/cd2001/)
