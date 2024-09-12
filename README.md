@@ -15,8 +15,11 @@ We are Team Apha & welcome to our HW2 Repository!
 </div>
 
 <h1 align="center">Debugging</h1>
+
 ## What is Merge Sort?
+
 Merge sort is a sorting algorithm that follows the divide-and-conquer approach. It works by recursively dividing the input array into smaller subarrays and sorting those subarrays then merging them back together to obtain the sorted array.
+
 <div align="center">
 <img src="https://willrosenbaum.com/assets/img/2022f-cosc-311/merge-sort.gif" width="600">
 </div>
@@ -56,6 +59,12 @@ pyright rand.py > post_traces/pyright_rand_trace.txt
 ```sh
 coverage run -m pytest
 ```
+
+## Error fixes
+
+1. **Debugging: ** Check for the errors as produced in the auto test files
+2. **Verification through report generation: ** Re-run the commands & check the result for errors as the files get updated post changes and the report is generated
+
 ## Authors
 [Chaitralee Datar](https://www.linkedin.com/in/cd2001/)
 
