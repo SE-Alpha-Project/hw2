@@ -13,7 +13,7 @@ def merge_sort(arr):
         and then combines them using the recombine function
     """
 
-    if len(arr) == 1:
+    if len(arr) <= 1:
         return arr
     half = len(arr)//2
 
