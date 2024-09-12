@@ -38,6 +38,8 @@ source myenv/bin/activate                  #activating vm
 python hw2_debugging.py
 ```
 4. **Python auto-test Run Command:** You can use the following commmand for generating the files for pyright and pylint
+
+
 -> Debugging file
 ```sh
 autopep8 hw2_debugging.py > post_traces/autopep8_hw2_debugging_trace.txt
