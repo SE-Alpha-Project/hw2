@@ -17,8 +17,8 @@ We are Team Apha & welcome to our HW2 Repository!
 <h1 align="center">Debugging</h1>
 ## What is Merge Sort?
 Merge sort is a sorting algorithm that follows the divide-and-conquer approach. It works by recursively dividing the input array into smaller subarrays and sorting those subarrays then merging them back together to obtain the sorted array.
+<img src="https://willrosenbaum.com/assets/img/2022f-cosc-311/merge-sort.gif" width="600">
 
-https://willrosenbaum.com/assets/img/2022f-cosc-311/merge-sort.gif
 ## Auto test generation
 1. **Python Pre-requisite:** Python 3.x
 2. **Navigate to the code directory**
