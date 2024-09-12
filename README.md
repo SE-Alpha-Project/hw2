@@ -9,7 +9,7 @@
 </div>
 <div>Hi Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></div>
 
-We are Team Apha & welcome to our HW2 Repository!
+We are Team Alpha & welcome to our HW2 Repository!
 <div align="center">
   
 </div>
