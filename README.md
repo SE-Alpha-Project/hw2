@@ -23,6 +23,10 @@ We are Team Alpha & welcome to our HW2 Repository!
 
 Merge sort is a sorting algorithm that follows the divide-and-conquer approach. It works by recursively dividing the input array into smaller subarrays and sorting those subarrays then merging them back together to obtain the sorted array.
 
+Merge sort is efficient with a time complexity of \( O(n \log n) \), making it suitable for large datasets. It is also a stable sorting algorithm, meaning it preserves the relative order of equal elements from the original input.
+
+
+
 <div align="center">
 <img src="https://willrosenbaum.com/assets/img/2022f-cosc-311/merge-sort.gif" width="600">
 </div>
