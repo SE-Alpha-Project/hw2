@@ -1,6 +1,6 @@
 """
 This module is an implementation of mergeSort that uses multiple helper methods
-in rand.py to sort the array that is currently failing
+in rand.py to sort the array that is currently failingggg
 """
 
 import rand
