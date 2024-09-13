@@ -37,17 +37,21 @@ Merge sort is efficient with a time complexity of \( O(n \log n) \), making it s
 ```sh
 cd hw2
 ```
-3. **Adding a virtual machine enviroment (Optional)**
+3. **Install Dependencies**
+```sh
+pip install -r requirements.txt
+```
+4. **Adding a virtual machine enviroment (Optional)**
 ```sh
 python3 -m pip install --user virtualenv   #installing the vm
 python3 -m venv myenv                      #creating vm
 source myenv/bin/activate                  #activating vm
 ```
-3. **Python Run Command:** You can use the following commmand for running the Python code
+5. **Python Run Command:** You can use the following commmand for running the Python code
 ```sh
 python hw2_debugging.py
 ```
-4. **Python auto-test Run Command:** You can use the following commmand for generating the files for pyright and pylint
+6. **Python auto-test Run Command:** You can use the following commmand for generating the files for pyright and pylint
 
 
 -> Debugging file
@@ -62,7 +66,7 @@ autopep8 rand.py > post_traces/autopep8_rand_trace.txt
 pylint rand.py > post_traces/pylint_rand_trace.txt
 pyright rand.py > post_traces/pyright_rand_trace.txt
 ```
-5. **Python Test Code Coverage:** You can use the following commmand for checking the overall code coverage
+7. **Python Test Code Coverage:** You can use the following commmand for checking the overall code coverage
 ```sh
 coverage run -m pytest
 ```
