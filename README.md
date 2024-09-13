@@ -3,8 +3,11 @@
 ![Static Badge](https://img.shields.io/badge/python-3.13-brightgreen)
 ![Static Badge](https://img.shields.io/badge/platform-linux-blue)
 ![Static Badge](https://img.shields.io/badge/license-MIT-purple)
-[![Test Cases](https://github.com/SE-Alpha-Project/hw1/actions/workflows/python-app.yml/badge.svg)](https://github.com/SE-Alpha-Project/hw1/actions/workflows/python-app.yml)
-[![Coverage Status](https://we-cli.github.io/jayin/badges/coverage.svg)](https://github.com/SE-Alpha-Project/hw1/actions)   
+[![Test Cases](https://github.com/SE-Alpha-Project/hw2/actions/workflows/python-app.yml/badge.svg)](https://github.com/SE-Alpha-Project/hw2/actions/workflows/python-app.yml)
+[![Coverage Status](https://we-cli.github.io/jayin/badges/coverage.svg)](https://github.com/SE-Alpha-Project/hw1/actions)
+<img src="https://img.shields.io/badge/code%20style-pep8-yellow.svg">
+<img src="https://img.shields.io/badge/linting-pylint-violet">
+<img src="https://microsoft.github.io/pyright/img/pyright_badge.svg">
 
 </div>
 <div>Hi Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></div>
