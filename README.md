@@ -5,7 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/license-MIT-purple)
 [![Test Cases](https://github.com/SE-Alpha-Project/hw2/actions/workflows/test.yml/badge.svg)](https://github.com/SE-Alpha-Project/hw2/actions/workflows/test.yml)
 [![Coverage Status](https://we-cli.github.io/jayin/badges/coverage.svg)](https://github.com/SE-Alpha-Project/hw2/actions)
-[![Code Style]([https://we-cli.github.io/jayin/badges/coverage.svg](https://img.shields.io/badge/code%20style-pep8-yellow.svg))](https://github.com/SE-Alpha-Project/hw2/actions)
+[![Code Style](https://img.shields.io/badge/code%20style-pep8-yellow.svg)](https://github.com/SE-Alpha-Project/hw2/actions)
 <img src="https://img.shields.io/badge/linting-pylint-violet">
 <img src="https://microsoft.github.io/pyright/img/pyright_badge.svg">
 
